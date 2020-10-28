@@ -41,7 +41,7 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
   
       Code Repository:
           Recent codes and models developed using the VGG16 and Inception-V4 networks.
-          These are the recommended models for use in TIL predictions. 
+          These are the recommended models for use in TIL analysis. 
               https://github.com/SBU-BMI/quip_classification 
               Trained VGG16 and Inception-V4 models can be downloaded from
                   https://stonybrookmedicine.box.com/shared/static/bl15zu4lwb9cc7ltul15aa8kyrn7kh2d.zip
