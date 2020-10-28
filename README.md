@@ -2,7 +2,7 @@
 
 Codes for deep learning-based pipelines for whole slide tissue image analysis: 
 
-Segmentation of Nuclei: 
+### Segmentation of Nuclei: 
 
      Code Repository: 
               https://github.com/SBU-BMI/quip_cnn_segmentation
@@ -17,7 +17,7 @@ Segmentation of Nuclei:
     Datasets:
               https://tinyurl.com/yyqoq2n2
   
- Segmentation of Tumor Regions:
+ ### Segmentation of Tumor Regions:
  
     Code Repository:
               https://github.com/SBU-BMI/quip_cancer_segmentation
@@ -29,7 +29,7 @@ Segmentation of Nuclei:
     Datasets: 
               https://app.box.com/s/1qux9ub21zcvpwao1cf81ar4milxl25x
   
-  Creating Tumor Infiltrating Lymphocyte Maps:
+  ### Creating Tumor Infiltrating Lymphocyte Maps:
   
       Code Repository:
           Codes used in the Cell Reports paper: 
