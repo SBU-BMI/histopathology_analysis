@@ -1,4 +1,4 @@
-# Deep learning methods for histopathology image analysis
+## Deep learning methods for histopathology image analysis
 
 Codes for deep learning-based pipelines for whole slide tissue image analysis: 
 
@@ -37,13 +37,13 @@ Segmentation of Nuclei:
           More recent models using the VGG16 and Inception-V4 networks.
               https://github.com/SBU-BMI/quip_classification 
       Related Papers:
-              Saltz J, Gupta R,  et al. Spatial organization and molecular correlation 
-              of tumor-infiltrating lymphocytes using deep learning on pathology images. 
-              Cell reports. 2018 Apr 3;23(1):181-93.
+              Saltz J, Gupta R,  et al. Spatial organization and molecular 
+              correlation of tumor-infiltrating lymphocytes using deep learning 
+              on pathology images. Cell reports. 2018 Apr 3;23(1):181-93.
               
-              Abousamra S, Hou L,  et al. Learning from thresholds: fully automated classification 
-              of tumor infiltrating lymphocytes for multiple cancer types. arXiv preprint 
-              arXiv:1907.03960. 2019 Jul 9.
+              Abousamra S, Hou L,  et al. Learning from thresholds: fully 
+              automated classification of tumor infiltrating lymphocytes for 
+              multiple cancer types. arXiv preprint arXiv:1907.03960. 2019 Jul 9.
       Datasets:
               https://doi.org/10.7937/K9/TCIA.2018.Y75F9W1
   
