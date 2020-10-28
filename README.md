@@ -1,6 +1,6 @@
 ## Deep learning methods for histopathology image analysis
 
-Codes for deep learning-based pipelines for whole slide tissue image analysis: 
+Codes for deep learning-based pipelines for whole slide tissue image (WSI) analysis: 
 
 ### Segmentation of Nuclei: 
 
@@ -17,7 +17,7 @@ Codes for deep learning-based pipelines for whole slide tissue image analysis:
     Datasets:
               https://tinyurl.com/yyqoq2n2
   
- ### Segmentation of Tumor Regions:
+ ### Segmentation of Tumor Regions in Breast Cancer WSIs:
  
     Code Repository:
               https://github.com/SBU-BMI/quip_cancer_segmentation
