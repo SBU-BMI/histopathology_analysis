@@ -36,6 +36,8 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
               https://github.com/SBU-BMI/u24_lymphocyte  
           More recent models using the VGG16 and Inception-V4 networks.
               https://github.com/SBU-BMI/quip_classification 
+              Trained VGG16 and Inception-V4 models can be downloaded from
+              https://stonybrookmedicine.box.com/shared/static/bl15zu4lwb9cc7ltul15aa8kyrn7kh2d.zip
       Related Papers:
               Saltz J, Gupta R,  et al. Spatial organization and molecular 
               correlation of tumor-infiltrating lymphocytes using deep learning 
