@@ -37,15 +37,16 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
     Datasets: 
               https://app.box.com/s/1qux9ub21zcvpwao1cf81ar4milxl25x
   
-  ### Creating Tumor Infiltrating Lymphocyte Maps:
+  ### Creating Tumor Infiltrating Lymphocyte (TIL) Maps:
   
       Code Repository:
-          Recent models using the VGG16 and Inception-V4 networks.
+          Recent codes and models developed using the VGG16 and Inception-V4 networks.
+          These are the recommended models for use in TIL predictions. 
               https://github.com/SBU-BMI/quip_classification 
               Trained VGG16 and Inception-V4 models can be downloaded from
                   https://stonybrookmedicine.box.com/shared/static/bl15zu4lwb9cc7ltul15aa8kyrn7kh2d.zip
           
-          Codes used in the Cell Reports paper: 
+          Codes used in the Cell Reports paper.
               https://github.com/SBU-BMI/u24_lymphocyte  
               
       Related Papers:
