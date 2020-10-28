@@ -6,6 +6,9 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
 
      Code Repository: 
               https://github.com/SBU-BMI/quip_cnn_segmentation
+              Trained CNN model can be downloaded from
+                  http://vision.cs.stonybrook.edu/~lehhou/download/model_trained.tar.gz
+              
      Related Papers:
               Hou, L., Gupta, R., et al. Dataset of segmented nuclei in hematoxylin 
               and eosin stained histopathology images of ten cancer types. Sci Data7, 185 
@@ -14,6 +17,7 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
               Hou L, Agarwal A, et al. Robust histopathology image analysis: to label or 
               to synthesize?. Proceedings of the IEEE Conference on Computer Vision and 
               Pattern Recognition 2019 (pp. 8533-8542).
+              
     Datasets:
               https://tinyurl.com/yyqoq2n2
   
@@ -21,11 +25,15 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
  
     Code Repository:
               https://github.com/SBU-BMI/quip_cancer_segmentation
+              Trained CNN model can be downloaded from
+                  https://stonybrookmedicine.box.com/shared/static/1hdfb06lgd08xfbpoly9tjp6c6i665nz.zip
+              
     Related Papers:
               Le, Han, Rajarsi Gupta, Le Hou, et al. "Utilizing automated breast 
               cancer detection to identify spatial distributions of tumor infiltrating 
               lymphocytes in invasive breast cancer." 
               The American Journal of Pathology (2020).
+              
     Datasets: 
               https://app.box.com/s/1qux9ub21zcvpwao1cf81ar4milxl25x
   
@@ -34,10 +42,12 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
       Code Repository:
           Codes used in the Cell Reports paper: 
               https://github.com/SBU-BMI/u24_lymphocyte  
+          
           More recent models using the VGG16 and Inception-V4 networks.
               https://github.com/SBU-BMI/quip_classification 
               Trained VGG16 and Inception-V4 models can be downloaded from
-              https://stonybrookmedicine.box.com/shared/static/bl15zu4lwb9cc7ltul15aa8kyrn7kh2d.zip
+                  https://stonybrookmedicine.box.com/shared/static/bl15zu4lwb9cc7ltul15aa8kyrn7kh2d.zip
+                  
       Related Papers:
               Saltz J, Gupta R,  et al. Spatial organization and molecular 
               correlation of tumor-infiltrating lymphocytes using deep learning 
@@ -46,6 +56,7 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
               Abousamra S, Hou L,  et al. Learning from thresholds: fully 
               automated classification of tumor infiltrating lymphocytes for 
               multiple cancer types. arXiv preprint arXiv:1907.03960. 2019 Jul 9.
+              
       Datasets:
               https://doi.org/10.7937/K9/TCIA.2018.Y75F9W1
   
