@@ -59,4 +59,5 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
               
     Datasets:
        https://doi.org/10.7937/K9/TCIA.2018.Y75F9W1
+       https://app.box.com/s/p8vhpo735ccgcotxun4xcv63vbp4wxqf
   
