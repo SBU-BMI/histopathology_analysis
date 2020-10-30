@@ -21,21 +21,6 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
     Datasets:
        https://tinyurl.com/yyqoq2n2
   
- ### Segmentation of Tumor Regions in Breast Cancer WSIs:
- 
-    Code Repository:
-       https://github.com/SBU-BMI/quip_cancer_segmentation
-       Trained CNN model can be downloaded from
-       https://stonybrookmedicine.box.com/shared/static/1hdfb06lgd08xfbpoly9tjp6c6i665nz.zip
-              
-    Related Papers:
-       Le, Han, Rajarsi Gupta, Le Hou, et al. "Utilizing automated breast 
-       cancer detection to identify spatial distributions of tumor infiltrating 
-       lymphocytes in invasive breast cancer." The American Journal of Pathology (2020).
-              
-    Datasets: 
-       https://app.box.com/s/1qux9ub21zcvpwao1cf81ar4milxl25x
-  
   ### Creating Tumor Infiltrating Lymphocyte (TIL) Maps:
   
     Code Repository:
@@ -64,4 +49,17 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
        (The data is being uploaded, check back in a few days.)
             https://stonybrookmedicine.box.com/s/qb4gi6o1dihvds0tuieaclpdbcl03qzu
             
-  
+  ### TIL/Tumor Quantification in TCGA Breast Cancer WSIs:
+ 
+    Code Repository:
+       https://github.com/SBU-BMI/quip_cancer_segmentation
+       Trained CNN model can be downloaded from
+       https://stonybrookmedicine.box.com/shared/static/1hdfb06lgd08xfbpoly9tjp6c6i665nz.zip
+              
+    Related Papers:
+       Le, Han, Rajarsi Gupta, Le Hou, et al. "Utilizing automated breast 
+       cancer detection to identify spatial distributions of tumor infiltrating 
+       lymphocytes in invasive breast cancer." The American Journal of Pathology (2020).
+              
+    Datasets: 
+       https://app.box.com/s/1qux9ub21zcvpwao1cf81ar4milxl25x
