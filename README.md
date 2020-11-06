@@ -63,3 +63,8 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
               
     Datasets: 
        https://app.box.com/s/1qux9ub21zcvpwao1cf81ar4milxl25x
+ 
+ ### Segmentation of Tumor Regions in Pancreatic Cancer Cases
+ 
+    Code Repository:
+       https://github.com/SBU-BMI/quip_paad_cancer_detection.git
