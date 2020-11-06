@@ -68,3 +68,10 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
  
     Code Repository:
        https://github.com/SBU-BMI/quip_paad_cancer_detection.git
+       Trained CNN model can be downloaded from
+       https://github.com/SBU-BMI/quip_prad_cancer_detection/tree/master/data/models_cnn
+    
+    Related Papers: 
+       Le H, Samaras D, Kurc T, Gupta R, Shroyer K, Saltz J. Pancreatic cancer detection 
+       in whole slide images using noisy label annotations. InInternational Conference on 
+       Medical Image Computing and Computer-Assisted Intervention 2019 Oct 13 (pp. 541-549). Springer, Cham.
