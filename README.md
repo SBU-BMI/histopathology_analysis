@@ -5,9 +5,9 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
 ### Segmentation of Nuclei: 
 
     Code Repository: 
-       https://github.com/SBU-BMI/quip_cnn_segmentation
+       https://bit.ly/2IEMDp8 (https://github.com/SBU-BMI/quip_cnn_segmentation)
        Trained CNN model can be downloaded from
-       http://vision.cs.stonybrook.edu/~lehhou/download/model_trained.tar.gz
+       https://bit.ly/3pBHQFE (http://vision.cs.stonybrook.edu/~lehhou/download/model_trained.tar.gz)
               
     Related Papers:
        Hou, L., Gupta, R., et al. Dataset of segmented nuclei in hematoxylin 
@@ -26,12 +26,12 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
     Code Repository:
        Recent codes and models developed using the VGG16 and Inception-V4 networks.
        These are the recommended models for use in TIL analysis. 
-           https://github.com/SBU-BMI/quip_classification 
+           https://bit.ly/38JSqEN (https://github.com/SBU-BMI/quip_classification) 
            Trained VGG16 and Inception-V4 models can be downloaded from
-           https://stonybrookmedicine.box.com/shared/static/bl15zu4lwb9cc7ltul15aa8kyrn7kh2d.zip
+           https://bit.ly/3lArJWA (https://stonybrookmedicine.box.com/shared/static/bl15zu4lwb9cc7ltul15aa8kyrn7kh2d.zip)
           
        Codes used in the Cell Reports paper.
-           https://github.com/SBU-BMI/u24_lymphocyte  
+           https://bit.ly/3nnFXuq (https://github.com/SBU-BMI/u24_lymphocyte)  
               
     Related Papers:
        Saltz J, Gupta R,  et al. Spatial organization and molecular 
@@ -47,14 +47,14 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
             https://doi.org/10.7937/K9/TCIA.2018.Y75F9W1
        TIL analysis results from the VGG16 and Inception-V4 models:
        (The data is being uploaded, check back in a few days.)
-            https://stonybrookmedicine.box.com/s/qb4gi6o1dihvds0tuieaclpdbcl03qzu
+            https://bit.ly/3kJJDVT (https://stonybrookmedicine.box.com/s/qb4gi6o1dihvds0tuieaclpdbcl03qzu)
             
   ### TIL/Tumor Quantification in TCGA Breast Cancer WSIs:
  
     Code Repository:
-       https://github.com/SBU-BMI/quip_cancer_segmentation
+       https://bit.ly/2K8pmwh (https://github.com/SBU-BMI/quip_cancer_segmentation)
        Trained CNN model can be downloaded from
-       https://stonybrookmedicine.box.com/shared/static/1hdfb06lgd08xfbpoly9tjp6c6i665nz.zip
+       https://bit.ly/3pzvqyo (https://stonybrookmedicine.box.com/shared/static/1hdfb06lgd08xfbpoly9tjp6c6i665nz.zip)
               
     Related Papers:
        Le, Han, Rajarsi Gupta, Le Hou, et al. "Utilizing automated breast 
@@ -62,14 +62,14 @@ Codes for deep learning-based pipelines for whole slide tissue image (WSI) analy
        lymphocytes in invasive breast cancer." The American Journal of Pathology (2020).
               
     Datasets: 
-       https://app.box.com/s/1qux9ub21zcvpwao1cf81ar4milxl25x
+       https://bit.ly/2UtZcpO (https://app.box.com/s/1qux9ub21zcvpwao1cf81ar4milxl25x)
  
  ### Segmentation of Tumor Regions in Pancreatic Cancer Cases
  
     Code Repository:
-       https://github.com/SBU-BMI/quip_paad_cancer_detection.git
+       https://bit.ly/2IJRLZp (https://github.com/SBU-BMI/quip_paad_cancer_detection.git)
        Trained CNN model can be downloaded from
-       https://github.com/SBU-BMI/quip_prad_cancer_detection/tree/master/data/models_cnn
+       https://bit.ly/32Pcn9q (https://github.com/SBU-BMI/quip_prad_cancer_detection/tree/master/data/models_cnn)
     
     Related Papers: 
        Le H, Samaras D, Kurc T, Gupta R, Shroyer K, Saltz J. Pancreatic cancer detection 
